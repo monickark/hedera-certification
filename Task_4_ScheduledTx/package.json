@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start:successCase": "node scripts/multiSigAccountSuccessCase.js",
-    "start:failureCase": "node scripts/multiSigAccountFailureCase.js"
+    "start": "node scripts/scheduled_tx.js"
   },
   "keywords": [],
   "author": "",

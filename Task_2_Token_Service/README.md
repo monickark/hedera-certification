@@ -13,7 +13,7 @@ Now set the KYC flag on Account3 and retry the transfer.
 ## Prerequisite
 
 - using node v18.9.0 (npm v8.19.1)
-- go to folder (Task_1_Account_Setup)
+- go to folder (Task_1_Token_Service)
 - `npm install`
 - rename sample.env to .env and fillout the values
 
